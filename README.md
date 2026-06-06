@@ -1,7 +1,8 @@
 # 📊 Data Analyst Job Market Analysis with SQL
 ## Overview
 
-This project explores the remote Data Analyst job market using SQL. By analyzing job postings, salaries, and skill requirements, the project uncovers insights into:<br>
+This project explores the remote Data Analyst job market using SQL.<br>
+By analyzing job postings, salaries, and skill requirements, the project uncovers insights into:<br>
 
 • The highest-paying remote Data Analyst jobs<br>
 • Skills required for top-paying positions<br>
