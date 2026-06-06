@@ -8,7 +8,7 @@ By analyzing job postings, salaries, and skill requirements, the project uncover
 • Skills required for top-paying positions<br>
 • Most in-demand Data Analyst skills<br>
 • Highest-paying technical skills<br>
-• Skills that offer the best combination of demand and salary<br>
+• Skills that offer the best combination of demand and salary
 
 The objective is to provide actionable insights for aspiring and experienced Data Analysts looking to maximize their employability and earning potential.
 
@@ -41,38 +41,40 @@ This project uses a job postings dataset containing Data Analyst roles posted th
 
 ## Business Questions
 **1. What are the top-paying remote Data Analyst jobs?**<br>
-Identified the highest-paying remote Data Analyst roles with available salary information and included hiring company details.<br>
+Identified the highest-paying remote Data Analyst roles with available salary information and included hiring company details.
 
 [VIEW QUERY HERE](https://github.com/ArjunTheAnalyst/SQL_DATA_ANALYST_JOB_MARKET_ANALYSIS/blob/main/01_top_paying_jobs.sql)
 
 **Key Finding:**<br>
-Specialized roles in Healthcare, Legal, Research, and Quantitative Analysis command premium salaries, with top salaries approaching $100K annually.<br>
+Specialized roles in Healthcare, Legal, Research, and Quantitative Analysis command premium salaries, with top salaries approaching $100K annually.
 
 **2. What skills are required for the top-paying remote Data Analyst jobs?**<br>
 Analyzed the skills associated with the highest-paying remote Data Analyst positions.
 
 **Key Finding:**<br>
 SQL, Python, R, Excel, SAS, and Tableau appeared most frequently among top-paying opportunities.<br>
-
-[VIEW QUERY HERE](https://github.com/ArjunTheAnalyst/SQL_DATA_ANALYST_JOB_MARKET_ANALYSIS/blob/main/02_top_paying_job_skills.sql)
+[VIEW DETAILED QUERY HERE](https://github.com/ArjunTheAnalyst/SQL_DATA_ANALYST_JOB_MARKET_ANALYSIS/blob/main/02_top_paying_job_skills.sql)
 
 **3. What are the most in-demand skills for remote Data Analysts?**<br>
-Measured skill demand by counting occurrences across remote Data Analyst job postings.<br>
+Measured skill demand by counting occurrences across remote Data Analyst job postings.
 
 **Key Finding:**<br>
 SQL, Excel, Python, Tableau, and Power BI emerged as the most requested skills by employers.<br>
+[VIEW DETAILED QUERY HERE](https://github.com/ArjunTheAnalyst/SQL_DATA_ANALYST_JOB_MARKET_ANALYSIS/blob/main/03_top_demanded_skills.sql)
 
 **4. What are the highest-paying skills?**<br>
-Calculated average salary by skill to identify technologies associated with the strongest compensation.<br>
+Calculated average salary by skill to identify technologies associated with the strongest compensation.
 
 **Key Finding:**
 Big data, machine learning, cloud, and data engineering technologies significantly outperformed traditional analytics tools in average salary.<br>
+[VIEW DETAILED QUERY HERE](https://github.com/ArjunTheAnalyst/SQL_DATA_ANALYST_JOB_MARKET_ANALYSIS/blob/main/04_top_paid_skills.sql)
 
 **5. Which skills offer the best combination of demand and salary?**<br>
-Combined salary and demand metrics to identify the most valuable skills for career growth.<br>
+Combined salary and demand metrics to identify the most valuable skills for career growth.
 
 **Key Finding:**
 Cloud technologies, data engineering tools, and programming languages provide the strongest balance of market demand and earning potential.<br>
+[VIEW DETAILED QUERY HERE](https://github.com/ArjunTheAnalyst/SQL_DATA_ANALYST_JOB_MARKET_ANALYSIS/blob/main/05_optimal_skills.sql)
 
 ## Key Insights
 ### 💰 Salary Insights
