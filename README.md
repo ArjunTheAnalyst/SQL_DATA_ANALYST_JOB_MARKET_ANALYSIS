@@ -43,4 +43,65 @@ This project uses a job postings dataset containing Data Analyst roles posted th
 Identified the highest-paying remote Data Analyst roles with available salary information and included hiring company details.
 
 **Key Finding:**<br>
-Specialized roles in Healthcare, Legal, Research, and Quantitative Analysis command premium salaries, with top salaries approaching $100K annually.
+Specialized roles in Healthcare, Legal, Research, and Quantitative Analysis command premium salaries, with top salaries approaching $100K annually.<br>
+
+**2. What skills are required for the top-paying remote Data Analyst jobs?**<br>
+Analyzed the skills associated with the highest-paying remote Data Analyst positions.
+
+**Key Finding:**<br>
+SQL, Python, R, Excel, SAS, and Tableau appeared most frequently among top-paying opportunities.<br>
+
+**3. What are the most in-demand skills for remote Data Analysts?**<br>
+Measured skill demand by counting occurrences across remote Data Analyst job postings.<br>
+
+**Key Finding:**<br>
+SQL, Excel, Python, Tableau, and Power BI emerged as the most requested skills by employers.<br>
+
+**4. What are the highest-paying skills?**<br>
+Calculated average salary by skill to identify technologies associated with the strongest compensation.<br>
+
+**Key Finding:**
+Big data, machine learning, cloud, and data engineering technologies significantly outperformed traditional analytics tools in average salary.<br>
+
+**5. Which skills offer the best combination of demand and salary?**<br>
+Combined salary and demand metrics to identify the most valuable skills for career growth.<br>
+
+**Key Finding:**
+Cloud technologies, data engineering tools, and programming languages provide the strongest balance of market demand and earning potential.<br>
+
+## Key Insights
+💰 Salary Insights
+Top remote Data Analyst salaries approached $100K annually.
+Domain expertise often commanded higher compensation than generic analyst roles.
+Specialized analytical positions consistently ranked among the highest-paying opportunities.
+🔥 Most In-Demand Skills
+SQL
+Excel
+Python
+Tableau
+Power BI
+🚀 Highest-Value Skills
+Go
+Snowflake
+Azure
+AWS
+Hadoop
+Python
+Tableau
+
+These skills demonstrated either strong salary potential, strong demand, or both.
+
+SQL Techniques Used
+Common Table Expressions (CTEs)
+Joins
+Aggregate Functions
+Window Functions
+Filtering & Sorting
+Data Exploration
+Salary Analysis
+Demand Analysis
+Tools Used
+Microsoft SQL Server
+SQL Server Management Studio (SSMS)
+Git
+GitHub
