@@ -70,38 +70,56 @@ Combined salary and demand metrics to identify the most valuable skills for care
 Cloud technologies, data engineering tools, and programming languages provide the strongest balance of market demand and earning potential.<br>
 
 ## Key Insights
-💰 Salary Insights
-Top remote Data Analyst salaries approached $100K annually.
-Domain expertise often commanded higher compensation than generic analyst roles.
-Specialized analytical positions consistently ranked among the highest-paying opportunities.
-🔥 Most In-Demand Skills
-SQL
-Excel
-Python
-Tableau
-Power BI
-🚀 Highest-Value Skills
-Go
-Snowflake
-Azure
-AWS
-Hadoop
-Python
-Tableau
+### 💰 Salary Insights
+• Top remote Data Analyst salaries approached $100K annually.<br>
+• Domain expertise often commanded higher compensation than generic analyst roles.<br>
+• Specialized analytical positions consistently ranked among the highest-paying opportunities.<br>
+
+### 🔥 Most In-Demand Skills
+• SQL<br>
+• Excel<br>
+• Python<br>
+• Tableau<br>
+• Power BI<br>
+
+###🚀 Highest-Value Skills
+• Go<br>
+• Snowflake<br>
+• Azure<br>
+• AWS<br>
+• Hadoop<br>
+• Python<br>
+• Tableau<br>
 
 These skills demonstrated either strong salary potential, strong demand, or both.
 
-SQL Techniques Used
-Common Table Expressions (CTEs)
-Joins
-Aggregate Functions
-Window Functions
-Filtering & Sorting
-Data Exploration
-Salary Analysis
-Demand Analysis
-Tools Used
-Microsoft SQL Server
-SQL Server Management Studio (SSMS)
-Git
-GitHub
+## SQL Techniques Used
+• Common Table Expressions (CTEs)<br>
+• Joins<br>
+• Aggregate Functions<br>
+• Filtering & Sorting<br>
+• Data Exploration<br>
+• Salary Analysis<br>
+• Demand Analysis<br>
+
+## Tools Used
+• Microsoft SQL Server<br>
+• SQL Server Management Studio (SSMS)<br>
+• Git<br>
+• GitHub
+
+## Project Structure
+
+```
+Data-Analyst-Job-Market-Analysis
+│
+├── sql_queries/
+│   ├── 01_top_paying_jobs.sql
+│   ├── 02_top_paying_job_skills.sql
+│   ├── 03_top_demanded_skills.sql
+│   ├── 04_top_paying_skills.sql
+│   └── 05_optimal_skills.sql
+│
+└── README.md
+```
+
