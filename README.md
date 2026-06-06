@@ -83,7 +83,7 @@ Cloud technologies, data engineering tools, and programming languages provide th
 • Tableau<br>
 • Power BI<br>
 
-###🚀 Highest-Value Skills
+### 🚀 Highest-Value Skills
 • Go<br>
 • Snowflake<br>
 • Azure<br>
