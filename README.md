@@ -41,9 +41,8 @@ This project uses a job postings dataset containing Data Analyst roles posted th
 
 ## Business Questions
 **1. What are the top-paying remote Data Analyst jobs?**<br>
-Identified the highest-paying remote Data Analyst roles with available salary information and included hiring company details.
-
-[VIEW QUERY HERE](https://github.com/ArjunTheAnalyst/SQL_DATA_ANALYST_JOB_MARKET_ANALYSIS/blob/main/01_top_paying_jobs.sql)
+Identified the highest-paying remote Data Analyst roles with available salary information and included hiring company details.<br>
+[VIEW DETAILED QUERY HERE](https://github.com/ArjunTheAnalyst/SQL_DATA_ANALYST_JOB_MARKET_ANALYSIS/blob/main/01_top_paying_jobs.sql)
 
 **Key Finding:**<br>
 Specialized roles in Healthcare, Legal, Research, and Quantitative Analysis command premium salaries, with top salaries approaching $100K annually.
@@ -80,14 +79,14 @@ Cloud technologies, data engineering tools, and programming languages provide th
 ### 💰 Salary Insights
 • Top remote Data Analyst salaries approached $100K annually.<br>
 • Domain expertise often commanded higher compensation than generic analyst roles.<br>
-• Specialized analytical positions consistently ranked among the highest-paying opportunities.<br>
+• Specialized analytical positions consistently ranked among the highest-paying opportunities.
 
 ### 🔥 Most In-Demand Skills
 • SQL<br>
 • Excel<br>
 • Python<br>
 • Tableau<br>
-• Power BI<br>
+• Power BI
 
 ### 🚀 Highest-Value Skills
 • Go<br>
@@ -96,7 +95,7 @@ Cloud technologies, data engineering tools, and programming languages provide th
 • AWS<br>
 • Hadoop<br>
 • Python<br>
-• Tableau<br>
+• Tableau
 
 These skills demonstrated either strong salary potential, strong demand, or both.
 
@@ -107,7 +106,7 @@ These skills demonstrated either strong salary potential, strong demand, or both
 • Filtering & Sorting<br>
 • Data Exploration<br>
 • Salary Analysis<br>
-• Demand Analysis<br>
+• Demand Analysis
 
 ## Tools Used
 • Microsoft SQL Server<br>
@@ -130,6 +129,6 @@ Data-Analyst-Job-Market-Analysis
 └── README.md
 ```
 ## Conclusion
-The analysis demonstrates that successful Data Analysts require a combination of technical, analytical, and business-focused skills. While SQL remains the foundational skill across the market, professionals who expand into cloud platforms, programming, data engineering, and visualization tools position themselves for greater demand and higher salaries.<br>
+The analysis demonstrates that successful Data Analysts require a combination of technical, analytical, and business-focused skills. While SQL remains the foundational skill across the market, professionals who expand into cloud platforms, programming, data engineering, and visualization tools position themselves for greater demand and higher salaries.
 
 For Data Analysts seeking long-term career growth, developing expertise in SQL, Python, Tableau, cloud technologies, and modern data platforms offers the strongest alignment with current market trends.
