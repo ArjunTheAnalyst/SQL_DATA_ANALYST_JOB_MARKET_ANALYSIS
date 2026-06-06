@@ -41,7 +41,8 @@ This project uses a job postings dataset containing Data Analyst roles posted th
 
 ## Business Questions
 **1. What are the top-paying remote Data Analyst jobs?**<br>
-Identified the highest-paying remote Data Analyst roles with available salary information and included hiring company details.
+Identified the highest-paying remote Data Analyst roles with available salary information and included hiring company details.<br>
+[VIEW QUERY HERE](https://github.com/ArjunTheAnalyst/SQL_DATA_ANALYST_JOB_MARKET_ANALYSIS/blob/main/01_top_paying_jobs.sql)
 
 **Key Finding:**<br>
 Specialized roles in Healthcare, Legal, Research, and Quantitative Analysis command premium salaries, with top salaries approaching $100K annually.<br>
