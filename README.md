@@ -36,4 +36,4 @@ This project uses a job postings dataset containing Data Analyst roles posted th
 | skills_job_dim    | Bridge table linking jobs and skills                                        |
 | skills_dim        | Skill definitions                                                           |
 
-> **Note:** All insights and conclusions in this project are based on Data Analyst job postings from **2023** and reflect market conditions during that period.
+**Note:** All insights and conclusions in this project are based on Data Analyst job postings from **2023** and reflect market conditions during that period.
