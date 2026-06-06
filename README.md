@@ -42,6 +42,7 @@ This project uses a job postings dataset containing Data Analyst roles posted th
 ## Business Questions
 **1. What are the top-paying remote Data Analyst jobs?**<br>
 Identified the highest-paying remote Data Analyst roles with available salary information and included hiring company details.<br>
+
 [VIEW QUERY HERE](https://github.com/ArjunTheAnalyst/SQL_DATA_ANALYST_JOB_MARKET_ANALYSIS/blob/main/01_top_paying_jobs.sql)
 
 **Key Finding:**<br>
@@ -52,6 +53,7 @@ Analyzed the skills associated with the highest-paying remote Data Analyst posit
 
 **Key Finding:**<br>
 SQL, Python, R, Excel, SAS, and Tableau appeared most frequently among top-paying opportunities.<br>
+
 [VIEW QUERY HERE](https://github.com/ArjunTheAnalyst/SQL_DATA_ANALYST_JOB_MARKET_ANALYSIS/blob/main/02_top_paying_job_skills.sql)
 
 **3. What are the most in-demand skills for remote Data Analysts?**<br>
