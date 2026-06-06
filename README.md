@@ -48,7 +48,8 @@ Identified the highest-paying remote Data Analyst roles with available salary in
 Specialized roles in Healthcare, Legal, Research, and Quantitative Analysis command premium salaries, with top salaries approaching $100K annually.<br>
 
 **2. What skills are required for the top-paying remote Data Analyst jobs?**<br>
-Analyzed the skills associated with the highest-paying remote Data Analyst positions.
+Analyzed the skills associated with the highest-paying remote Data Analyst positions.<br>
+[VIEW QUERY HERE](https://github.com/ArjunTheAnalyst/SQL_DATA_ANALYST_JOB_MARKET_ANALYSIS/blob/main/02_top_paying_job_skills.sql)
 
 **Key Finding:**<br>
 SQL, Python, R, Excel, SAS, and Tableau appeared most frequently among top-paying opportunities.<br>
